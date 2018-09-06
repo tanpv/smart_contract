@@ -1,25 +1,22 @@
-Layout
-	- fundamental solidity
-		- understand solidity
-		- demo with faucet
+Layout	
+	- primer solidity (demo with faucet contract)
 
-	- token standard
-		- understand erc20 --> review
-		- understand erc721 --> review
+	- token standards with openzepplin
+	
+		- erc20
+			- ico idea
 
-	- openzepplin
-		- understand openzeppelin
+		- erc721
+			- non-fungible and collectible idea
+			- token standard structure
+				- ownership
+				- creation
+				- transfer and allowance
+				- burn
+	
+	- real world ico (https://www.youtube.com/watch?v=2IqsgSyA8BQ&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)
 
-	- real world ico
-		- create a live project use openzeppelina and erc20 https://www.youtube.com/watch?v=2IqsgSyA8BQ&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN
-
-
-	- real world dapp game
-		- create a live project use openzeppelin and erc721 https://www.youtube.com/watch?v=T_Cjb5qNhiI
-
-
-
-
+	- real world dapp game (https://www.youtube.com/watch?v=T_Cjb5qNhiI)
 
 
 
