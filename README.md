@@ -1,4 +1,106 @@
-Smart Contract
+Layout
+	- fundamental solidity
+		- understand solidity
+		- demo with faucet
+
+	- token standard
+		- understand erc20 --> review
+		- understand erc721 --> review
+
+	- openzepplin
+		- understand openzeppelin
+
+	- real world ico
+		- create a live project use openzeppelina and erc20 https://www.youtube.com/watch?v=2IqsgSyA8BQ&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN
+
+
+	- real world dapp game
+		- create a live project use openzeppelin and erc721 https://www.youtube.com/watch?v=T_Cjb5qNhiI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+smart contract
+	- end result
+		- faucet
+		https://github.com/ethereumbook/ethereumbook/blob/develop/code/Solidity/Faucet8.sol
+		- election
+		https://github.com/dappuniversity/election/blob/master/contracts/Election.sol
+
+
+		- erc20
+		https://github.com/dappuniversity/token_sale/blob/master/contracts/DappToken.sol
+		https://github.com/dappuniversity/token_sale/blob/master/contracts/DappTokenSale.sol
+
+
+		- erc721
+		https://medium.com/blockchannel/walking-through-the-erc721-full-implementation-72ad72735f3c
+
+		- openzeplin
+		https://www.youtube.com/watch?v=W8pytsIMe8A
+	
+		
+		https://github.com/leanthebean/mtg/blob/master/smart_contracts/contracts/MTG.sol
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 	- externally owned accounts (EOAs) and contract account
 	- life cycle of a smart contract
 		- write smart contract in high level language
@@ -28,12 +130,9 @@ Smart Contract
 		- events
 		- catching events
 		- calling other contracts
-		- creating a new instance
-
-
-
-
-
+			- creating a new instance
+			- raw call, delegatecall
+	
 
 
 
@@ -121,14 +220,4 @@ invole to openzeplin
 attach and defend technical
 create and analysis
 
-- faucet
-https://github.com/ethereumbook/ethereumbook/blob/develop/code/Solidity/Faucet8.sol
-- election
-https://github.com/dappuniversity/election/blob/master/contracts/Election.sol
 
-- erc20
-https://github.com/dappuniversity/token_sale/blob/master/contracts/DappToken.sol
-https://github.com/dappuniversity/token_sale/blob/master/contracts/DappTokenSale.sol
-
-- erc721
-https://medium.com/blockchannel/walking-through-the-erc721-full-implementation-72ad72735f3c
