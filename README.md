@@ -1,22 +1,43 @@
-Layout	
+toc
 	- primer solidity (demo with faucet contract)
-
+		- array
+			- delete item in array
+		- mapping
+			- naming
+			- multiple dimension mapping
+		- predefine
+			- msg.sender
+		- function
+			- internal, external
+			- private, public
+			- view
+			- constructor
+		- class
+			- inheritance
+			- interface
+			
 	- token standards with openzepplin
-	
 		- erc20
 			- ico idea
-
+			- structure
+			- write test
+			
 		- erc721
 			- non-fungible and collectible idea
-			- token standard structure
-				- ownership
-				- creation
-				- transfer and allowance
-				- burn
+			- structure
+				- erc721.sol
+			- write test
 	
-	- real world ico (https://www.youtube.com/watch?v=2IqsgSyA8BQ&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)
+	- why they using this ?
 
-	- real world dapp game (https://www.youtube.com/watch?v=T_Cjb5qNhiI)
+	- real world ico 
+		- https://www.youtube.com/watch?v=2IqsgSyA8BQ&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN
+
+	- real world game
+		- https://www.youtube.com/watch?v=T_Cjb5qNhiI
+		- perfect tutorial
+		- https://github.com/satansdeer/gradient-token
+		- https://github.com/PacktPublishing/Ethereum-Cookbook
 
 
 
