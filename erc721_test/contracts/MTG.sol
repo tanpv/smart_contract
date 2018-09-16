@@ -22,8 +22,7 @@ contract MTG is ERC721Full, ERC721Mintable, ERC721Burnable {
     ERC721Full ("MTG", "MTG")
     public
   {
-    // mint(msg.sender, 1);
-    // mint(msg.sender, 2);
+    
   }
 
 }
