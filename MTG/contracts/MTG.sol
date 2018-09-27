@@ -1,4 +1,5 @@
 /**
+  - create image hash with ipfs
   - support minting with image hash
   - 
 
