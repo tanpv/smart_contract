@@ -6,8 +6,8 @@ contract('MTG', accounts => {
   const to = accounts[0]
   const tokenId1 = 1
   const tokenId2 = 2
-  const tokenURI1 = "QmaJmzqteDHV8cFzGEjvUo8veyxDfPn5pHw57MAXE2mLXL"
-  const tokenURI2 = "QmXDv5aVtjdyrTkZMW8eXSNBUS64yFWQgd4kncmFJtm2VY"
+  const tokenURI1 = "https://github.com/tanpv/solidity/blob/master/MTG/cards/Academy_Rector.png"
+  const tokenURI2 = "https://github.com/tanpv/solidity/blob/master/MTG/cards/Adarkar_Wastes.png"
 
   beforeEach(async () => {
     mtgInstance = await MTG.new("Magic: The Gathering", "MTG")    
@@ -41,7 +41,7 @@ contract('MTG', accounts => {
       assert.equal(owner, accounts[0])
     })
 
-    it('check account balance', async () => {
+    it('check tokenURI for specific account', async () => {
       const balance = await mtgInstance.balanceOf(accounts[0])
       assert.equal(balance, 2)
 
