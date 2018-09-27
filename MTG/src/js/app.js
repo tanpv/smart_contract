@@ -1,8 +1,10 @@
 /**
  * ui support:
- *  - list out cards for specific address ?
- *  - list out on selling cards ? * 
- *  - support for auction ? (transfer as a step inside auction)
+ *  - support minting card for contract owner (mint on demand)
+ *  - list out cards for specific address 
+ *  - list out cards on selling card
+ *  - support sell
+ *  - support buy 
  */
 
 App = {
